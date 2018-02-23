@@ -1,0 +1,293 @@
+@import url("https://fonts.googleapis.com/css?family=Kaushan+Script");
+body {
+    overflow-x: hidden;
+}
+
+.carousel {}
+
+.carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+}
+
+.carousel-item {
+    height: 100vh;
+    background-color: #777;
+}
+
+.carousel-item .container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    z-index: 100;
+}
+
+.carousel-item>img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 100vh;
+}
+
+.devsstore-nav {
+    background: rgba(25, 25, 25, 0);
+    /* background: #333; */
+    box-shadow: -1px 3px 3px #aaa;
+    width: 100% !important;
+}
+
+.devsstore-title {
+    font-family: "Kaushan Script", cursive;
+}
+
+.devsstore-nav a {
+    color: #fff;
+    transition: all 0.25s ease-out;
+}
+
+.devsstore-nav a:hover {
+    color: #bbb;
+}
+
+.navbar {
+    transition: all .5s;
+    width: 100%;
+}
+
+.change-color-nav {
+    background: rgba(25, 25, 25, .5);
+}
+
+.pattern {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("../img/pattern.png");
+    z-index: 10;
+}
+
+@media (min-width: 768px) {
+    .navbar-expand-md .navbar-collapse ul {
+        position: relative;
+        display: flex;
+        margin: auto;
+    }
+}
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 40em) {
+    /* Bump up size of carousel content */
+    .carousel-caption p {
+        margin-bottom: 1.25rem;
+        font-size: 1.25rem;
+        line-height: 1.4;
+    }
+    .featurette-heading {
+        font-size: 50px;
+    }
+}
+
+@media (min-width: 62em) {
+    .featurette-heading {
+        margin-top: 7rem;
+    }
+}
+
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+
+/* Center align the text within the three columns below the carousel */
+
+.marketing .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+    padding-top: 3rem;
+}
+
+.marketing h2 {
+    font-weight: 400;
+}
+
+.marketing .col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+}
+
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+    margin: 5rem 0;
+    /* Space out the Bootstrap <hr> more */
+}
+
+
+/* Thin out the marketing headings */
+
+.featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -.05rem;
+}
+
+
+/*parallax de prueba*/
+
+.parallax {
+    /* The image used */
+    background-image: url("../img/OLO92P0.jpg");
+    /* Set a specific height */
+    height: 500px;
+    width: 100vw;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-hover {
+    transition: all .25s ease-in-out;
+}
+
+.img-hover:hover {
+    transform: scale(1.3, 1.3);
+}
+
+.parallax h2,
+p {
+    padding: 1rem 2rem;
+}
+
+.margin-2 {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.eligenos ul li {
+    list-style: none;
+    padding: 5px 10px;
+}
+
+
+/* SECTION-CONTACTO*/
+
+section.contacto {
+    background-color: #4f5962;
+    color: #fff;
+    padding: 10px;
+}
+
+section.contacto .borde {
+    border: 1px solid #697279;
+}
+
+section.contacto p {
+    margin-bottom: 25px;
+}
+
+section.contacto .btn-default {
+    background-color: #67727c;
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+section.contacto .btn-lg {
+    padding: 10px 46px;
+}
+
+h2.blanco {
+    color: #fff;
+    font-size: 2.6em;
+    margin-bottom: 30px;
+}
+
+
+/*FOOTER*/
+
+footer {
+    background-color: #2d3235;
+    padding-top: 30px;
+}
+
+footer hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #595d60;
+    margin: 1em 0;
+    padding: 0;
+}
+
+footer a,
+footer a:hover {
+    color: #fff;
+}
+
+footer p {
+    color: #fff;
+}
+
+.devs-nav a {
+    color: #fff;
+}
+
+.devs-nav a:hover {
+    background: rgba(255, 255, 255, .1);
+}
+
+
+/*DESTACADA*/
+
+section.destacada {
+    position: relative;
+}
+
+section.destacada .contenido {
+    top: 38%;
+    left: 0;
+    width: 100%;
+    position: absolute;
+    z-index: 20;
+}
+
+section.destacada .contenido h1 {
+    padding: 20px 50px;
+    border: 4px solid rgb(73, 61, 50);
+    color: #E8872B;
+    font-size: 2em;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0 auto;
+    width: 60%;
+}
+
+
+/** CONTACTO **/
+
+.form-control {
+    background-color: #ededed !important;
+    border: 0;
+    box-shadow: none;
+}
+
+.form-horizontal .control-label {
+    font-weight: normal;
+}
+
+.btn-default.enviar {
+    background-color: #323538;
+    color: #fff;
+    border: 0;
+    padding: 7px 52px;
+    text-transform: uppercase;
+}
