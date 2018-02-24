@@ -603,3 +603,10 @@ body {
 .dropdown-menu a hover {
     background-color: red !important;
 }
+
+
+/*BTN-SECONDARY*/
+
+.btn-secondary:hover {
+    background-color: tomato !important;
+}
