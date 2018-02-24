@@ -23,9 +23,8 @@
             <img class="first-slide" src="img/OBDITW0.jpg" alt="First slide">
             <div class="container">
                 <div class="carousel-caption text-right">
-                    <h1>Example headline.</h1>
-                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida
-                        at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                    <h1>Somos una agencia creativa.</h1>
+                    <p class="text-center">Con una pasión por el diseño. Le ayudaremos a lograr sus objetivos y hacer crecer su negocio.</p>
                 </div>
             </div>
             <div class="pattern"></div>
@@ -34,9 +33,8 @@
             <img class="second-slide" src="img/OAYTOG0.jpg" alt="Second slide">
             <div class="container">
                 <div class="carousel-caption text-right">
-                    <h1>Another example headline.</h1>
-                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida
-                        at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                    <h1>Optimización de motores de búsqueda.</h1>
+                    <p class="text-center">Es el proceso de afectar la visibilidad de un sitio web o una página web en los resultados no remunerados de un motor de búsqueda, a menudo conocidos como resultados "naturales", "orgánicos" o "obtenidos".</p>
                 </div>
             </div>
             <div class="pattern"></div>
@@ -45,9 +43,8 @@
             <img class="third-slide" src="img/h_index.jpg" alt="Third slide">
             <div class="container">
                 <div class="carousel-caption text-right">
-                    <h1>One more for good measure.</h1>
-                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida
-                        at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                    <h1>Sitios Web Personalizados</h1>
+                    <p class="text-center">Creamos plataformas personalizadas para clientes que necesitan una solución específicamente diseñada para un sitio web o Aplicación Móvil.</p>
                 </div>
             </div>
             <div class="pattern"></div>
