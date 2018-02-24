@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3833eb58-165a-48ac-8d08-513033ef41ce" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/contacto.html" afterPath="$PROJECT_DIR$/contacto.php" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/desarrollo_movil.html" afterPath="$PROJECT_DIR$/desarrollo_movil.php" />
-      <change beforePath="$PROJECT_DIR$/desarrollo_web.html" afterPath="$PROJECT_DIR$/desarrollo_web.php" />
-      <change beforePath="$PROJECT_DIR$/inicio.html" afterPath="$PROJECT_DIR$/index.php" />
-      <change beforePath="$PROJECT_DIR$/marketing.html" afterPath="$PROJECT_DIR$/marketing.php" />
-      <change beforePath="$PROJECT_DIR$/nosotros.html" afterPath="$PROJECT_DIR$/nosotros.php" />
-      <change beforePath="$PROJECT_DIR$/servicios.html" afterPath="$PROJECT_DIR$/servicios.php" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -111,6 +104,7 @@
         <option value="$PROJECT_DIR$/desarrollo_web.php" />
         <option value="$PROJECT_DIR$/nosotros.php" />
         <option value="$PROJECT_DIR$/servicios.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -199,12 +193,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519490500602</updated>
-      <workItem from="1519490505092" duration="1225000" />
+      <workItem from="1519490505092" duration="2459000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1225000" />
+    <option name="totallyTimeSpent" value="2459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
@@ -309,6 +303,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="69" column="46" lean-forward="false" selection-start-line="69" selection-start-column="46" selection-end-line="69" selection-end-column="46" />
           <folding />
         </state>
       </provider>
