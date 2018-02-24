@@ -75,7 +75,7 @@
                 <img class="rounded-circle img-hover" src="img/693.jpg" alt="Generic placeholder image" width="200"
                      height="200">
                 <h2>Diseño Web</h2>
-                <p>Los sitios web que producimos están limpios y frescos, cada uno diseñado de forma única. Además, nos
+                <p class="text-justify">Los sitios web que producimos están limpios y frescos, cada uno diseñado de forma única. Además, nos
                     esforzamos por garantizar que todos nuestros sitios cumplan con los estándares de accesibilidad
                     exigidos por World Wide Web Consortium.
                     Nuestros sitios web se prueban en los navegadores más utilizados con diferentes resoluciones de
@@ -87,7 +87,7 @@
                 <img class="rounded-circle img-hover" src="img/484.jpg" alt="Generic placeholder image" width="200"
                      height="200">
                 <h2>Diseño Móvil</h2>
-                <p>El mercado de los usuarios de teléfonos inteligentes cada vez es más y más grande. Cada minuto que
+                <p class="text-justify">El mercado de los usuarios de teléfonos inteligentes cada vez es más y más grande. Cada minuto que
                     pasa, tu mercado objetivo está formando parte de esta tendencia. Por eso es importante que tengas
                     una estrategia móvil lo antes posible.
                 </p>
@@ -98,7 +98,7 @@
                 <img class="rounded-circle img-hover" src="img/216.jpg" alt="Generic placeholder image" width="200"
                      height="200">
                 <h2>Marketing Digital</h2>
-                <p>En la actualidad el marketing es una herramienta que todo empresario debe conocer. Sin duda, todas
+                <p class="text-justify">En la actualidad el marketing es una herramienta que todo empresario debe conocer. Sin duda, todas
                     las compañías de una u otra forma utilizan técnicas de marketing, incluso, sin saberlo. Marketing no
                     es otra cosa que la realización
                     de intercambios entre un mínimo de 2 partes de forma que se produzca un beneficio mutuo.</p>
