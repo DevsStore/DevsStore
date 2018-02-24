@@ -223,7 +223,8 @@ h2.blanco {
 
 footer {
     background-color: #2d3235;
-    padding-top: 30px;
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
 }
 
 footer hr {
@@ -231,7 +232,7 @@ footer hr {
     height: 1px;
     border: 0;
     border-top: 1px solid #595d60;
-    margin: 1em 0;
+    margin: 1em 0 !important;
     padding: 0;
 }
 
@@ -609,4 +610,22 @@ body {
 
 .btn-secondary:hover {
     background-color: tomato !important;
+}
+.i-facebook{
+    transition: all .25s ease-in-out;
+}
+.i-facebook:hover{
+    color: #3b5998;
+}
+.i-twitter{
+    transition: all .25s ease-in-out;
+}
+.i-twitter:hover{
+    color: #00aced;
+}
+.i-instragram{
+    transition: all .25s ease-in-out;
+}
+.i-instragram:hover{
+    color: tomato;
 }

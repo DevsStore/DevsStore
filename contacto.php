@@ -14,31 +14,8 @@
 
 <body>
     <!--NAV-->
-    <header>
-        <nav class="navbar navbar-expand-md fixed-top devsstore-nav">
-            <a class="navbar-brand devsstore-title" href="#">DevsStore</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-                 <i class="fas fa-bars" style="color:#fff"></i>
-              
-            </button>
-            <div class="collapse navbar-collapse" id="navbarCollapse">
-                <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="inicio.html"><i class="fas fa-home" style="color:#fff"></i> Inicio</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="nosotros.html"><i class="fas fa-users" style="color:#fff"></i> Nosotros</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="servicios.html"><i class="fas fa-spin fa-cog" style="color:#fff"></i> Servicios</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="contacto.html"><i class="fas fa-envelope" style="color:#fff"></i> Contácto</a>
-                    </li>
-                </ul>
-            </div>
-        </nav>
-    </header>
+    <?php include './components/header.php'?>
+
     <section class="destacada">
         <div class="pattern"></div>
         <img src="img/h_contacto.jpg" class="img-fluid" alt="Responsive image">
@@ -89,36 +66,7 @@
             </div>
         </div>
     </div>
-    <footer>
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-md-6">
-                    <nav class="devs-nav nav">
-                        <a href="inicio.html" class="nav-link">Inicio</a></li>
-                        <a href="nosotros.html" class="nav-link">Nosotros</a></li>
-                        <a href="servicios.html" class="nav-link">Servicios</a></li>
-                        <a href="contacto.html" class="nav-link">Contacto</a></li>
-                    </nav>
-                </div>
-
-                <div class="col-md-4 col-md-offset-2">
-                    <nav class=" nav">
-                        <a href="https://www.facebook.com" class="nav-link"><i class="fab fa-facebook fa-2x"></i></a>
-                        <a href="https://www.twitter.com" class="nav-link"><i class="fab fa-twitter-square fa-2x"></i></a>
-                        <a href="https://www.instagram.com" class="nav-link"><i class="fab fa-instagram fa-2x"></i></a>
-                    </nav>
-                </div>
-                <div class="container">
-                    <div class="clearfix">
-                        <hr>
-                        <p class="text-center">&copy; 2018 DevsStore.Todos los Derechos Reservados</p>
-                    </div>
-                    <!--./row-->
-                </div>
-            </div>
-        </div>
-        <!--./container-->
-    </footer>
+    <?php include_once './components/footer.php'?>
     <script src="js/jquery-3.3.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/main.js"></script>
