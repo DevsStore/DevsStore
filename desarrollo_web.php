@@ -17,9 +17,9 @@
 
     <section class="destacada">
         <div class="pattern"></div>
-        <img src="img/web1.jpg" class="img-fluid" alt="Responsive image">
+        <img src="img/web1.jpg" class="img-fluid">
         <div class="contenido">
-            <h1 class="text-center"><span>Desarrollo Web</span></h1>
+            <h1 class="text-center">Desarrollo Web</h1>
         </div>
     </section>
 

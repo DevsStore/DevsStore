@@ -20,7 +20,7 @@
         <div class="pattern"></div>
         <img src="img/h_contacto.jpg" class="img-fluid" alt="Responsive image">
         <div class="contenido">
-            <h1 class="text-center"><span>¿Listo para comenzar? Contactános</span></h1>
+            <h1 class="text-center">¿Listo para comenzar? Contactános</h1>
         </div>
     </section>
     <div class="informacion">
