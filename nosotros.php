@@ -20,7 +20,7 @@
         <div class="pattern"></div>
         <img src="img/blx-d-p15.jpg" class="img-fluid" alt="Responsive image">
         <div class="contenido">
-            <h1 class="text-center"><span>Somos Creatívos</span></h1>
+            <h1 class="text-center">Somos Creatívos</h1>
         </div>
     </section>
     <div class="container" style="margin-top:2rem;margin-bottom:2rem;">

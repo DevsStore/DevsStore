@@ -76,6 +76,18 @@ body {
         margin: auto;
     }
 }
+@media (max-width: 768px) {
+    .destacada{
+        position: relative;
+        min-height: 356px !important;
+        height: 356px !important;
+    }
+    .destacada img{
+        position: relative;
+        min-height: 356px !important;
+        height: 356px !important;
+    }
+}
 
 
 /* RESPONSIVE CSS
@@ -255,10 +267,11 @@ footer p {
 
 
 /*DESTACADA*/
-
-section.destacada {
+.destacada{
     position: relative;
+
 }
+
 
 section.destacada .contenido {
     top: 38%;
@@ -269,14 +282,16 @@ section.destacada .contenido {
 }
 
 section.destacada .contenido h1 {
-    padding: 20px 50px;
+    padding: 20px;
     border: 4px solid tomato;
     color: #fff;
     font-size: 2em;
     font-weight: bold;
     text-transform: uppercase;
     margin: 0 auto;
-    width: 60%;
+    text-align: center !important;
+    width: 70%;
+
 }
 
 
