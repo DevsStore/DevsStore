@@ -43,7 +43,7 @@
             <img class="third-slide" src="img/h_index.jpg" alt="Third slide">
             <div class="container">
                 <div class="carousel-caption text-right">
-                    <h1>Sitios Web Personalizados</h1>
+                    <h1>Contenido Digital Personalizado</h1>
                     <p class="text-center">Creamos plataformas personalizadas para clientes que necesitan una solución específicamente diseñada para un sitio web o Aplicación Móvil.</p>
                 </div>
             </div>
