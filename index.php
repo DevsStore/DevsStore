@@ -108,11 +108,9 @@
     <!-- START THE FEATURETTES -->
     <div class="row featurette parallax img">
         <div class="col-md-12">
-            <h2 class="featurette-heading">First featurette heading. <span
-                        class="text-muted">It'll blow your mind.</span></h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod
-                semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus
-                commodo.</p>
+            <h2 id="h2parallax" class="featurette-heading">Entregue mayor valor a sus clientes!. <span id="span1"
+                        class="text-muted">Focalízate en tu Negocio.</span></h2>
+            <p id="lider" class="lead">Con una extensa experiencia en el desarrollo de Apps para servicios bajo demanda en múltiples industrias, DevsStore Movil está bien equipada para ayudarle a desarrollar la siguiente App para su industria.</p>
         </div>
     </div>
 
@@ -122,20 +120,18 @@
             <div class="col-md-7 order-md-2">
                 <h2 class="featurette-heading">Desarrollo de aplicaciones.<span
                             class="text-muted">Móviles.</span></h2>
-                <p class="lead">Le ayudamos a crear una experiencia perfecta para sus aplicaciones web en dispositivos portátiles que utilizan diseño receptivo, HTML5 y CSS3.</p>
+                <p class="lead">Le ayudamos a desarrollar una solución de negocio de principio a fin, que incluye Apps y el Sistema de administración que permita posicionarlo como el líder de su industria, maximizando así su alcance dado, que casi todo adulto tiene hoy un smartphone.</p>
             </div>
             <div class="col-md-5 order-md-1">
-                <img class="featurette-image img-fluid mx-auto" src="http://via.placeholder.com/500x500"
+                <img class="featurette-image img-fluid mx-auto" src="img/icp-mobilem.png"
                      alt="Generic placeholder image">
             </div>
         </div>
 
         <div class="row featurette margin-2">
             <div class="col-md-7">
-                <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-                <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis
-                    euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus,
-                    tellus ac cursus commodo.</p>
+                <h2 class="featurette-heading">Optimización de. <span class="text-muted">Motores de búsqueda.</span></h2>
+                <p class="lead">El objetivo de la optimización en página y fuera de página es generar un tema coherente con sus palabras clave específicas. El motor de búsqueda es un robot, no un ser humano ... y por lo tanto, debe seguir nuestro proceso comprobado para educar al robot.</p>
             </div>
             <div class="col-md-5">
                 <img class="featurette-image img-fluid mx-auto" src="img/seo-px2v2-460x388.png"
