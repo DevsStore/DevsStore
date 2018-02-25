@@ -20,7 +20,7 @@
         <div class="pattern"></div>
         <img src="img/h_servicios.jpg" class="img-fluid" alt="Responsive image">
         <div class="contenido">
-            <h1 class="text-center"><span>Nuestros Servicios</span></h1>
+            <h1 class="text-center"  style="font-family: sans-serif;">Nuestros Servicios</h1>
         </div>
     </section>
     <?php include_once './components/footer.php'?>
