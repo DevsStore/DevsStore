@@ -16,13 +16,20 @@
     <!--NAV-->
     <?php include './components/header.php'?>
 
-    <section class="destacada">
+    <div class="video-header wrap">
+	<div class="fullscreen-video-wrap">
         <div class="pattern"></div>
-        <img src="img/h_servicios.jpg" class="img-fluid" alt="Responsive image">
-        <div class="contenido">
-            <h1 class="text-center"><span>Desarrollo Móvil</span></h1>
-        </div>
-    </section>
+        <video src="img/easy-v1.mp4" autoplay loop></video>
+    </div>
+	<div class="header-overlay">
+		<div class="header-content">
+			<h1>Desarrollo Móvil</h1>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit hic eaque rerum cupiditate officiis recusandae iusto quaerat architecto odio illum.</p>
+			
+		</div>
+	</div>
+</div>
+       
     <?php include_once './components/footer.php'?>
 
 
