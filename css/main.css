@@ -76,13 +76,14 @@ body {
         margin: auto;
     }
 }
+
 @media (max-width: 768px) {
-    .destacada{
+    .destacada {
         position: relative;
         min-height: 356px !important;
         height: 356px !important;
     }
-    .destacada img{
+    .destacada img {
         position: relative;
         min-height: 356px !important;
         height: 356px !important;
@@ -151,12 +152,25 @@ body {
     letter-spacing: -.05rem;
 }
 
+#h2parallax {
+    font-weight: bold;
+}
 
-/*parallax de prueba*/
+#span1 {
+    color: tomato !important;
+}
+
+#lider {
+    color: #000;
+    font-weight: bold;
+}
+
+
+/*parallax */
 
 .parallax {
     /* The image used */
-    background-image: url("../img/OLO92P0.jpg");
+    background-image: url("../img/67.jpg");
     /* Set a specific height */
     height: 500px;
     width: 100vw;
@@ -267,11 +281,10 @@ footer p {
 
 
 /*DESTACADA*/
-.destacada{
+
+.destacada {
     position: relative;
-
 }
-
 
 section.destacada .contenido {
     top: 38%;
@@ -291,7 +304,6 @@ section.destacada .contenido h1 {
     margin: 0 auto;
     text-align: center !important;
     width: 70%;
-
 }
 
 
@@ -626,21 +638,27 @@ body {
 .btn-secondary:hover {
     background-color: tomato !important;
 }
-.i-facebook{
+
+.i-facebook {
     transition: all .25s ease-in-out;
 }
-.i-facebook:hover{
+
+.i-facebook:hover {
     color: #3b5998;
 }
-.i-twitter{
+
+.i-twitter {
     transition: all .25s ease-in-out;
 }
-.i-twitter:hover{
+
+.i-twitter:hover {
     color: #00aced;
 }
-.i-instragram{
+
+.i-instragram {
     transition: all .25s ease-in-out;
 }
-.i-instragram:hover{
+
+.i-instragram:hover {
     color: tomato;
 }
