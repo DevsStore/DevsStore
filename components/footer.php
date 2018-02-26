@@ -1,5 +1,5 @@
 <footer>
-    <div class="container">
+    <div>
         <div class="row justify-content-center">
             <div class="col-md-6">
                 <nav class="devs-nav nav">
