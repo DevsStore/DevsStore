@@ -23,9 +23,12 @@
     </div>
 	<div class="header-overlay">
 		<div class="header-content">
-			<h1>Desarrollo Móvil</h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit hic eaque rerum cupiditate officiis recusandae iusto quaerat architecto odio illum.</p>
-			
+			<section class="destacada">
+                <div class="contenido">
+                    <h1 class="text-center"  style="font-family: sans-serif;">Desarollo Móvil</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Suscipit tempora perspiciatis amet facilis quam. Doloremque neque quibusdam maxime, voluptatem temporibus nulla, sed officiis necessitatibus odit consequuntur earum? Ipsa, quia veniam?</p>
+                </div>
+            </section>
 		</div>
 	</div>
 </div>
