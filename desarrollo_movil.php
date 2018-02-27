@@ -22,11 +22,11 @@
         <video src="img/easy-v1.mp4" autoplay loop></video>
     </div>
 	<div class="header-overlay">
-		<div class="header-content">
+		<div class="header-content" style="padding:0px;">
 			<section class="destacada">
                 <div class="contenido">
                     <h1 class="text-center"  style="font-family: sans-serif;">Desarollo Móvil</h1>
-                    <p>Si piensas desarrollar una aplicación móvil para tu negocio o para un proyecto en particular, es importante que conozcas cuáles son las plataformas móviles más populares. Así puedes tener una mejor idea sobre cuál plataforma utiliza tu mercado objetivo.</p>
+                    <p style="color:#fff">Si piensas desarrollar una aplicación móvil para tu negocio o para un proyecto en particular, es importante que conozcas cuáles son las plataformas móviles más populares. Así puedes tener una mejor idea sobre cuál plataforma utiliza tu mercado objetivo.</p>
                 </div>
             </section>
 		</div>
