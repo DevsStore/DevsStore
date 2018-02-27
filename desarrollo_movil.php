@@ -26,7 +26,7 @@
 			<section class="destacada">
                 <div class="contenido">
                     <h1 class="text-center"  style="font-family: sans-serif;">Desarollo Móvil</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Suscipit tempora perspiciatis amet facilis quam. Doloremque neque quibusdam maxime, voluptatem temporibus nulla, sed officiis necessitatibus odit consequuntur earum? Ipsa, quia veniam?</p>
+                    <p>Si piensas desarrollar una aplicación móvil para tu negocio o para un proyecto en particular, es importante que conozcas cuáles son las plataformas móviles más populares. Así puedes tener una mejor idea sobre cuál plataforma utiliza tu mercado objetivo.</p>
                 </div>
             </section>
 		</div>
