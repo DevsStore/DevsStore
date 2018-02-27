@@ -127,7 +127,7 @@
         </div>
         <div class="row featurette margin-2">
             <div class="col-md-7">
-                <h2 class="featurette-heading">Optimización de. <span class="text-muted">Motores de búsqueda.</span></h2>
+                <h2 class="featurette-heading">Optimización de <span class="text-muted">Motores de búsqueda.</span></h2>
                 <p class="lead">El objetivo de la optimización en página y fuera de página es generar un tema coherente con sus palabras clave específicas. El motor de búsqueda es un robot, no un ser humano ... y por lo tanto, debe seguir nuestro proceso comprobado para educar al robot.</p>
             </div>
             <div class="col-md-5">
