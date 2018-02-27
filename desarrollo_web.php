@@ -104,7 +104,19 @@
     <script src="js/jquery-3.3.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/main.js"></script>
-
+    <script>
+        $(document).ready(function() {
+            $(window).scroll( function(){
+                $('.demo-card').each( function(i){
+                    var bottom_of_object = $(this).position().top + $(this).outerHeight();
+                    var bottom_of_window = $(window).scrollTop() + $(window).height();
+                    if( bottom_of_window > bottom_of_object ){                
+                        $(this).animate({'opacity':'1'},3000);
+                    } 
+                });
+            });
+        });
+    </script>
 </body>
 
 </html>

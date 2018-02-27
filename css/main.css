@@ -340,6 +340,9 @@ section.destacada .contenido h1 {
 /*TIMELINE*/
 
 @media (min-width: 1000px) {
+    .demo-card{
+            opacity:0;
+    }
     #timeline .demo-card:nth-child(odd) .head::after,
     #timeline .demo-card:nth-child(even) .head::after {
         position: absolute;
