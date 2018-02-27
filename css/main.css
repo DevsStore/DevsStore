@@ -624,12 +624,12 @@ body {
 }
 
 .dropdown-menu a {
-    color: tomato !important;
+    color: #fff !important;
     font-weight: bold;
 }
 
-.dropdown-menu a hover {
-    background-color: red !important;
+.dropdown-menu a:hover {
+    color: #2d3235 !important;
 }
 
 
