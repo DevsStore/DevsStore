@@ -18,7 +18,7 @@
 
     <div class="video-header wrap">
 	<div class="fullscreen-video-wrap">
-        <div class="pattern"></div>
+        
         <video src="img/easy-v1.mp4" autoplay loop></video>
     </div>
 	<div class="header-overlay">
