@@ -40,12 +40,33 @@
                 <p class="lead">Hoy en día, con el avance tecnológico de los smarthphones y tablets, las posibilidades en este campo son infinitas, desde una app para la gestión de tu empresa hasta app para recibir alertas de distintos servicios de tu web y no perderte nada estés donde estés. <br> En DevsStore sea cual sea tu caso lo cubrimos, desarrollamos APPS  para su publicación en los stores, y APPS para uso internos de empresa, tan solo tienes que contarnos tu necesidad y nosotros te orientamos en este complejo campo y te presentamos un proyecto acorde a tus necesidades ¿APP IOS y Android , sólo Android, sólo IOS, modifico mi plataforma actual para la APP, etc?.</p>
             </div>
             <div class="col-md-5 order-md-1">
-                <img class="featurette-image img-fluid mx-auto" src="img/ser-p-m1.png"
+                <img style="display: block; height: 100%; margin: auto; padding: 5rem;" class="featurette-image img-fluid mx-auto" src="img/ser-p-m1.png"
                      alt="Generic placeholder image">
             </div>
         </div>
 
 </div>
+
+<div class="container">
+        <div class="row">
+        
+            <div class="col-md-6">
+                <img class="featurette-image img-fluid mx-auto" src="img/seo-px2v2-460x388.png"
+                     alt="Generic placeholder image">
+            </div>
+            <div class="col-md-6">
+                <div class="col-md-6">
+                    <img class="featurette-image img-fluid mx-auto" src="img/seo-px2v2-460x388.png"
+                     alt="Generic placeholder image">
+                </div>
+                <div class="col-md-6">
+                    <img class="featurette-image img-fluid mx-auto" src="img/seo-px2v2-460x388.png"
+                     alt="Generic placeholder image">
+                </div>
+            </div>
+        </div>
+    </div>
+
 <section class="contacto text-center">
 
         <div class="borde">
@@ -55,6 +76,7 @@
             <a data-toggle="modal" data-target=".modal-contacto" class="btn btn-default btn-lg">Solicitar Cotización</a>
         </div>
     </section>
+    
     <div class="modal fade modal-contacto" tabindex="-1" role="dialog" aria-labelledby="ContactoModal" aria-hidden="true">
         <div class="modal-dialog modal-lg">
             <div class="modal-content">
@@ -101,23 +123,7 @@
         </div>
 
     </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-3">
-            One of three columns
-            </div>
-            <div class="col-md-3">
-            One of three columns
-            </div>
-            <div class="col-md-3">
-            One of three columns
-            </div>
-            <div class="col-md-3">
-            One of three columns
-            </div>
-        </div>
-    </div>
-
+    
     
        
     <?php include_once './components/footer.php'?>
