@@ -66,39 +66,63 @@
         <!-- Three columns of text below the carousel -->
         <div class="container ">
             <div class="row">
+
                 <div class="col-lg-4">
-                    <img class="rounded-circle img-hover" src="img/693.jpg" alt="Generic placeholder image" width="200"
-                         height="200">
-                    <h2>Diseño Web</h2>
-                    <p class="text-justify">Los sitios web que producimos están limpios y frescos, cada uno diseñado de forma única. Además, nos
-                        esforzamos por garantizar que todos nuestros sitios cumplan con los estándares de accesibilidad
-                        exigidos por World Wide Web Consortium.
-                        Nuestros sitios web se prueban en los navegadores más utilizados con diferentes resoluciones de
-                        pantalla.</p>
-                    <p><a class="btn btn-secondary" href="desarrollo_web.php" role="button">Ver Más &raquo;</a></p>
-                </div>
-                <!-- /.col-lg-4 -->
+
+                    <div class="flip-container" >
+                        <div class="flipper"> 
+                                <div class="front front1">
+                                    <img src="img/693.jpg" style="position:absolute;width:100%;height:100%">
+                                    <div class="name" style="text-shadow:0px 1px 1px #fff">Diseño Web</div>
+                                </div>
+                                <div class="back">
+                                    <div class="back-title">Diseño Web</div>
+                                    <p class="text-justify" style="margin-top:1rem;">Los sitios web que producimos están limpios y frescos, cada uno diseñado de forma única. Además, nos
+                                        esforzamos por garantizar que todos nuestros sitios cumplan con los estándares de accesibilidad
+                                        exigidos por World Wide Web Consortium.
+                                        Nuestros sitios web se prueban en los navegadores más utilizados con diferentes resoluciones de
+                                        pantalla.</p>
+                                    <a class="btn btn-secondary" href="desarrollo_web.php" role="button">Ver Más &raquo;</a>
+                                </div>
+                        </div>
+                    </div>
+                </div>        
                 <div class="col-lg-4">
-                    <img class="rounded-circle img-hover" src="img/484.jpg" alt="Generic placeholder image" width="200"
-                         height="200">
-                    <h2>Diseño Móvil</h2>
-                    <p class="text-justify">El mercado de los usuarios de teléfonos inteligentes cada vez es más y más grande. Cada minuto que
+                    <div class="flip-container" >
+                        <div class="flipper"> 
+                                <div class="front front2">
+                                    <img src="img/484.jpg" style="position:absolute;width:100%;height:100%">
+                                    <div class="name" style="text-shadow:0px 1px 1px #fff">Diseño Móvil</div>
+                                </div>
+                                <div class="back">
+                                    <div class="back-title">Diseño Móvil</div>
+                                    <p class="text-justify" style="margin-top:1rem;">El mercado de los usuarios de teléfonos inteligentes cada vez es más y más grande. Cada minuto que
                         pasa, tu mercado objetivo está formando parte de esta tendencia. Por eso es importante que tengas
-                        una estrategia móvil lo antes posible.
-                    </p>
-                    <p><a class="btn btn-secondary" href="desarrollo_movil.php" role="button">Ver Más &raquo;</a></p>
+                        una estrategia móvil lo antes posible.</p>
+                                    <a class="btn btn-secondary" style="margin:1rem 0;" href="desarrollo_movil.php" role="button">Ver Más &raquo;</a>
+                                </div>
+                        </div>
+                    </div>
                 </div>
-                <!-- /.col-lg-4 -->
                 <div class="col-lg-4">
-                    <img class="rounded-circle img-hover" src="img/216.jpg" alt="Generic placeholder image" width="200"
-                         height="200">
-                    <h2>Marketing Digital</h2>
-                    <p class="text-justify">En la actualidad el marketing es una herramienta que todo empresario debe conocer. Sin duda, todas
+                    <div class="flip-container" >
+                        <div class="flipper"> 
+                                <div class="front front3">
+                                    <img src="img/216.jpg" style="position:absolute;width:100%;height:100%">
+                                    <div class="name" style="text-shadow:0px 1px 1px #fff">Marketing Digital</div>
+                                </div>
+                                <div class="back">
+                                    <div class="back-title">Marketing Digital</div>
+                                    <p class="text-justify" style="margin-top:1rem;">En la actualidad el marketing es una herramienta que todo empresario debe conocer. Sin duda, todas
                         las compañías de una u otra forma utilizan técnicas de marketing, incluso, sin saberlo. Marketing no
                         es otra cosa que la realización
                         de intercambios entre un mínimo de 2 partes de forma que se produzca un beneficio mutuo.</p>
-                    <p><a class="btn btn-secondary enviar" href="marketing.php" role="button">Ver Más &raquo;</a></p>
+                                    <a class="btn btn-secondary" style="margin:1rem 0;"  href="marketing.php" role="button">Ver Más &raquo;</a></p>
+                                </div>
+                        </div>
+                    </div>
                 </div>
+                
             </div>
             
         </div>

@@ -27,4 +27,7 @@ $(document).ready(() => {
     $btnTop.on("click", function() {
         $("html, body").animate({ scrollTop: 0 }, 300);
     });
+    $('.flip-container').hover(function() {
+        $(this).toggleClass('hover');
+      })
 });
