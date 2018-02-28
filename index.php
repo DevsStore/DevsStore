@@ -72,7 +72,7 @@
                     <div class="flip-container" >
                         <div class="flipper"> 
                                 <div class="front front1">
-                                    <img src="img/125.jpg" style="position:absolute;width:100%;height:100%">
+                                    <img src="img/3949.jpg" style="position:absolute;width:100%;height:100%">
                                     <div class="name" style="text-shadow:0px 1px 1px #fff">Diseño Web</div>
                                 </div>
                                 <div class="back">
