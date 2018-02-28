@@ -49,19 +49,36 @@
 
 <div class="container">
         <div class="row">
-        
             <div class="col-md-6">
-                <img class="featurette-image img-fluid mx-auto" src="img/seo-px2v2-460x388.png"
-                     alt="Generic placeholder image">
+            <div class="card">
+                <img class="card-img-top" src="img/seo-px2v2-460x388.png" alt="Card image cap">
+                <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                </div>
             </div>
+        </div>
             <div class="col-md-6">
                 <div class="col-md-6">
-                    <img class="featurette-image img-fluid mx-auto" src="img/seo-px2v2-460x388.png"
-                     alt="Generic placeholder image">
+                    <div class="card">
+                <img class="card-img-top" src="img/seo-px2v2-460x388.png" alt="Card image cap">
+                <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                </div>
+            </div>
                 </div>
                 <div class="col-md-6">
-                    <img class="featurette-image img-fluid mx-auto" src="img/seo-px2v2-460x388.png"
-                     alt="Generic placeholder image">
+                   <div class="card">
+                <img class="card-img-top" src="img/seo-px2v2-460x388.png" alt="Card image cap">
+                <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                </div>
+            </div>
                 </div>
             </div>
         </div>
