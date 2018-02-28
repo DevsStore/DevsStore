@@ -31,8 +31,8 @@
 		</div>
 	</div>
 </div>
-<div class="container" style="margin-top:2rem;margin-bottom:2rem;">
-        <div class="row featurette margin-2">
+<div class="container">
+        <div class="row featurette">
             <div class="col-md-7 order-md-2">
                 <h2 class="featurette-heading">Desarrollo de aplicaciones.<span
                             class="text-muted">Móviles.</span></h2>
@@ -46,7 +46,7 @@
 
 </div>
 
-<div class="container" style="margin-top:2rem;margin-bottom:2rem;">
+<div class="container" style="margin-bottom:2rem;">
         <div class="row">
             <div class="col-md-4">
                 <div class="card mi-card">
