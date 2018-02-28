@@ -32,6 +32,91 @@
 		</div>
 	</div>
 </div>
+<div class="container" style="margin-top:2rem;margin-bottom:2rem;">
+        <div class="row featurette margin-2">
+            <div class="col-md-7 order-md-2">
+                <h2 class="featurette-heading">Desarrollo de aplicaciones.<span
+                            class="text-muted">Móviles.</span></h2>
+                <p class="lead">Hoy en día, con el avance tecnológico de los smarthphones y tablets, las posibilidades en este campo son infinitas, desde una app para la gestión de tu empresa hasta app para recibir alertas de distintos servicios de tu web y no perderte nada estés donde estés. <br> En DevsStore sea cual sea tu caso lo cubrimos, desarrollamos APPS  para su publicación en los stores, y APPS para uso internos de empresa, tan solo tienes que contarnos tu necesidad y nosotros te orientamos en este complejo campo y te presentamos un proyecto acorde a tus necesidades ¿APP IOS y Android , sólo Android, sólo IOS, modifico mi plataforma actual para la APP, etc?.</p>
+            </div>
+            <div class="col-md-5 order-md-1">
+                <img class="featurette-image img-fluid mx-auto" src="img/ser-p-m1.png"
+                     alt="Generic placeholder image">
+            </div>
+        </div>
+
+</div>
+<section class="contacto text-center">
+
+        <div class="borde">
+            <h2 class="blanco">¿Estás listo para comenzar? podemos ayudarte.</h2>
+            <p>Contactános en el siguiente enlace, cuéntanos de tu proyecto y nos pondremos en contacto a la brevedad</p>
+
+            <a data-toggle="modal" data-target=".modal-contacto" class="btn btn-default btn-lg">Solicitar Cotización</a>
+        </div>
+    </section>
+    <div class="modal fade modal-contacto" tabindex="-1" role="dialog" aria-labelledby="ContactoModal" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Contáctanos llenando el siguiente Formulario</h4>
+                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">X</span><span
+                                class="sr-only">Cerrar</span></button>
+                </div>
+                <div class="modal-body">
+                    <form class="form-horizontal" role="form">
+                        <div class="form-group row">
+                            <label for="nombre" class="col-sm-2 control-label">Nombre</label>
+                            <div class="col-sm-10">
+                                <input class="form-control" type="text" name="nombre" placeholder="Nombre">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="correo" class="col-sm-2 control-label">Correo</label>
+                            <div class="col-sm-10">
+                                <input class="form-control" type="email" name="correo" placeholder="Correo Electrónico">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="telefono" class="col-sm-2 control-label">Teléfono</label>
+                            <div class="col-sm-10">
+                                <input class="form-control" type="tel" name="telefono" placeholder="Teléfono">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="mensaje" class="col-sm-2 control-label">Mensaje</label>
+                            <div class="col-sm-10">
+                                <textarea class="form-control" name="mensaje" placeholder="Mensaje"></textarea>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-sm-10 col-sm-offset-2">
+                                <button type="submit" class="btn btn-default enviar">Enviar</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+            One of three columns
+            </div>
+            <div class="col-md-3">
+            One of three columns
+            </div>
+            <div class="col-md-3">
+            One of three columns
+            </div>
+            <div class="col-md-3">
+            One of three columns
+            </div>
+        </div>
+    </div>
 
     
        
