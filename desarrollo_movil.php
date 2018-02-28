@@ -18,7 +18,6 @@
 
     <div class="video-header wrap">
 	<div class="fullscreen-video-wrap">
-        
         <video src="img/easy-v1.mp4" autoplay loop></video>
     </div>
 	<div class="header-overlay">
@@ -40,7 +39,7 @@
                 <p class="lead">Hoy en día, con el avance tecnológico de los smarthphones y tablets, las posibilidades en este campo son infinitas, desde una app para la gestión de tu empresa hasta app para recibir alertas de distintos servicios de tu web y no perderte nada estés donde estés. <br> En DevsStore sea cual sea tu caso lo cubrimos, desarrollamos APPS  para su publicación en los stores, y APPS para uso internos de empresa, tan solo tienes que contarnos tu necesidad y nosotros te orientamos en este complejo campo y te presentamos un proyecto acorde a tus necesidades ¿APP IOS y Android , sólo Android, sólo IOS, modifico mi plataforma actual para la APP, etc?.</p>
             </div>
             <div class="col-md-5 order-md-1">
-                <img style="display: block; height: 100%; margin: auto; padding: 5rem;" class="featurette-image img-fluid mx-auto" src="img/ser-p-m1.png"
+                <img style="display: block;margin: 50% 0px;" class="featurette-image img-fluid " src="img/ser-p-m1.png"
                      alt="Generic placeholder image">
             </div>
         </div>
