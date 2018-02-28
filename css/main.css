@@ -869,3 +869,10 @@ body {
 /* GRID MOVIL*/
 
 
+.mi-card{
+    transition: all .25s ease-in;
+}
+.mi-card:hover{
+    margin:-15px 0px;
+    box-shadow: 0px 3px 3px #333;
+}
