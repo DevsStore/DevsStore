@@ -49,8 +49,8 @@
 <div class="container" style="margin-bottom:2rem;">
         <div class="row">
         <div class="col-lg-12">
-            <h2 class="featurette-heading" style="margin:0">Desarrollo de aplicaciones<span
-                            class="text-muted"> Móviles.</span></h2>
+            <h2 class="featurette-heading text-center" style="margin:0 0 2rem 0">Nuestros<span
+                            class="text-muted"> Skills </span></h2>
         </div>
         <div class="col-lg-3">
                 <div class="card mi-card">
