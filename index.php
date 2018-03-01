@@ -27,6 +27,16 @@
                 </div>
                 <div class="pattern"></div>
             </div>
+           <div class="carousel-item">
+                <img class="third-slide" src="img/h_index.jpg" alt="Third slide">
+                <div class="container">
+                    <div class="carousel-caption text-right">
+                        <h1>Contenido Digital Personalizado</h1>
+                        <p class="text-center">Creamos plataformas personalizadas para clientes que necesitan una solución específicamente diseñada para un sitio web o Aplicación Móvil.</p>
+                    </div>
+                </div>
+                <div class="pattern"></div>
+            </div>
             <div class="carousel-item">
                 <img class="second-slide" src="img/OAYTOG0.jpg" alt="Second slide">
                 <div class="container">
@@ -37,17 +47,6 @@
                 </div>
                 <div class="pattern"></div>
             </div>
-            <div class="carousel-item">
-                <img class="third-slide" src="img/h_index.jpg" alt="Third slide">
-                <div class="container">
-                    <div class="carousel-caption text-right">
-                        <h1>Contenido Digital Personalizado</h1>
-                        <p class="text-center">Creamos plataformas personalizadas para clientes que necesitan una solución específicamente diseñada para un sitio web o Aplicación Móvil.</p>
-                    </div>
-                </div>
-                <div class="pattern"></div>
-            </div>
-        </div>
         <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="sr-only">Previous</span>
