@@ -34,8 +34,8 @@
 <div class="container">
         <div class="row featurette">
             <div class="col-md-7 order-md-2">
-                <h2 class="featurette-heading">Desarrollo de aplicaciones.<span
-                            class="text-muted">Móviles.</span></h2>
+                <h2 class="featurette-heading">Desarrollo de aplicaciones<span
+                            class="text-muted"> Móviles.</span></h2>
                 <p class="lead">Hoy en día, con el avance tecnológico de los smarthphones y tablets, las posibilidades en este campo son infinitas, desde una app para la gestión de tu empresa hasta app para recibir alertas de distintos servicios de tu web y no perderte nada estés donde estés. <br> En DevsStore sea cual sea tu caso lo cubrimos, desarrollamos APPS  para su publicación en los stores, y APPS para uso internos de empresa, tan solo tienes que contarnos tu necesidad y nosotros te orientamos en este complejo campo y te presentamos un proyecto acorde a tus necesidades ¿APP IOS y Android , sólo Android, sólo IOS, modifico mi plataforma actual para la APP, etc?.</p>
             </div>
             <div class="col-md-5 order-md-1">
@@ -51,8 +51,8 @@
                 <div class="card mi-card">
                     <img class="card-img-top" src="img/Angular.png" alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        <h5 class="card-title">Angular</h5>
+                        <p class="card-text text-center">Utilizamos Angular para crear y reutilizar su código y capacidades para crear aplicaciones para cualquier destino de despliegue. Para web, web móvil, dispositivo móvil nativo y escritorio nativo.</p>
                         <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                     </div>
                 </div>
@@ -61,8 +61,8 @@
                 <div class="card mi-card">
                     <img class="card-img-top" src="img/ionic_framework.png" alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        <h5 class="card-title">Ionic</h5>
+                        <p class="card-text text-center">Creamos aplicaciones asombrosas en una base de código. Desde los servicios de código abierto hasta los profesionales, Ionic nos ayuda a crear, implementar, probar y monitorear aplicaciones más fácil que nunca.</p>
                         <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                     </div>
                 </div>
@@ -71,8 +71,8 @@
                 <div class="card mi-card">
                     <img class="card-img-top" src="img/NativeScript.png" alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        <h5 class="card-title">NativeScript</h5>
+                        <p class="card-text text-center">Por qué necesitas NativeScript? Interfaz de usuario hermosa, accesible, nativa de la plataforma, sin visitas a la web. Defina una vez y permita que NativeScript se adapte para ejecutarse en todas partes, o adapte la interfaz de usuario a dispositivos y pantallas específicos.</p>
                         <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                     </div>
                 </div>
@@ -81,8 +81,8 @@
                 <div class="card mi-card">
                     <img class="card-img-top" src="img/android.png" alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        <h5 class="card-title">Desarrollo Nativo</h5>
+                        <p class="card-text text-center">Android Studio proporciona las herramientas más rápidas para crear apps en todas las clases de dispositivos Android. La edición de códigos de primer nivel,un sistema de compilación flexible e implementación te permiten concentrarte en la creación de aplicaciones únicas y de alta calidad.</p>
                         <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                     </div>
                 </div>
