@@ -69,6 +69,10 @@ body {
     z-index: 10;
 }
 
+#logo {
+    background-color: rgba(25, 25, 25, .5);
+}
+
 @media (min-width: 768px) {
     .navbar-expand-md .navbar-collapse ul {
         position: relative;
@@ -866,13 +870,14 @@ body {
     backface-visibility: hidden;
 }
 
+
 /* GRID MOVIL*/
 
-
-.mi-card{
+.mi-card {
     transition: all .25s ease-in;
 }
-.mi-card:hover{
-    margin:-15px 0px;
+
+.mi-card:hover {
+    margin: -15px 0px;
     box-shadow: 0px 3px 3px #333;
 }
