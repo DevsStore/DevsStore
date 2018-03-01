@@ -45,12 +45,11 @@
         </div>
 
 </div>
-
 <div class="container" style="margin-bottom:2rem;">
         <div class="row">
-            <div class="col-md-4">
+        <div class="col-lg-3">
                 <div class="card mi-card">
-                    <img class="card-img-top" src="img/seo-px2v2-460x388.png" alt="Card image cap">
+                    <img class="card-img-top" src="img/Angular.png" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -58,9 +57,9 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-lg-3">
                 <div class="card mi-card">
-                    <img class="card-img-top" src="img/seo-px2v2-460x388.png" alt="Card image cap">
+                    <img class="card-img-top" src="img/ionic_framework.png" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -68,9 +67,19 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-lg-3">
                 <div class="card mi-card">
-                    <img class="card-img-top" src="img/seo-px2v2-460x388.png" alt="Card image cap">
+                    <img class="card-img-top" src="img/NativeScript.png" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="card mi-card">
+                    <img class="card-img-top" src="img/android.png" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
