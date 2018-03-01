@@ -29,7 +29,7 @@
             
             <?php if(!empty($_GET['status'])  && $_GET['status'] == 'success'){  ?>
             <div class="alert alert-success" role="alert">
-                Te respondremos lo mas rápido que podemos!
+                Te responderemos lo mas rápido que podemos!
             </div>
             <?php }?>
             <?php if(!empty($_GET['status'])  && $_GET['status'] == 'error'){  ?>
