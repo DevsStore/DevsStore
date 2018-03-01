@@ -27,12 +27,12 @@
         <div style="max-width:15rem;display:block;margin:0 auto;">
             
             
-            <?php if($_GET['status']  && $_GET['status'] == 'success'){  ?>
+            <?php if(!empty($_GET['status'])  && $_GET['status'] == 'success'){  ?>
             <div class="alert alert-success" role="alert">
                 Te respondremos lo mas rápido que podemos!
             </div>
             <?php }?>
-            <?php if($_GET['status']  && $_GET['status'] == 'error'){  ?>
+            <?php if(!empty($_GET['status'])  && $_GET['status'] == 'error'){  ?>
             <div class="alert alert-danger" role="alert">
                 No se pudo enviar los datos correctamente, intente más tarde.
             </div>
