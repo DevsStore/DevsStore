@@ -31,9 +31,9 @@ body {
 }
 
 .devsstore-nav {
-    background: rgba(25, 25, 25, 0);
+    background: rgba(0, 0, 0, .7);
     /* background: #333; */
-    box-shadow: -1px 3px 3px #aaa;
+    box-shadow: -1px 3px 3px #222;
     width: 100% !important;
 }
 
