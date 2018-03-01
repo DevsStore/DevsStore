@@ -28,6 +28,16 @@
                 <div class="pattern"></div>
             </div>
            <div class="carousel-item">
+                <img class="third-slide" src="img/appmovil.jpg" alt="Third slide">
+                <div class="container">
+                    <div class="carousel-caption text-right">
+                        <h1>Creamos tu App Móvil</h1>
+                        <p class="text-center">Aplicaciones Nativas y Progressive Web Apps. Impulsa tu Negocio con las Últimas tecnologías. Innova, diferénciate de la competencia y haz crecer tu negocio.</p>
+                    </div>
+                </div>
+                <div class="pattern"></div>
+            </div>
+            <div class="carousel-item">
                 <img class="third-slide" src="img/h_index.jpg" alt="Third slide">
                 <div class="container">
                     <div class="carousel-caption text-right">
