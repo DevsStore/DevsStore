@@ -5,9 +5,9 @@
     $mensaje=$_POST['mensaje'];
     
     //jolver
-    $conexion = new mysqli("localhost", "root", "root", "devsstore");
+    //$conexion = new mysqli("localhost", "root", "root", "devsstore");
     //nestor
-    //$conexion = new mysqli("localhost", "root", "", "devsstore");
+    $conexion = new mysqli("localhost", "root", "", "devsstore");
 
     if($conexion){
         $query="INSERT INTO contacto VALUES(null,'$nombre','$correo','$telefono','$mensaje')";
