@@ -1,6 +1,6 @@
 <header>
     <nav class="navbar navbar-expand-md fixed-top devsstore-nav">
-        <a class="navbar-brand devsstore-title" href="#">DevsStore</a>
+        <a class="navbar-brand devsstore-title" href="index.php"><img src="img/logo.jpg"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
                 aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fas fa-bars" style="color:#fff"></i>
