@@ -877,7 +877,7 @@ body {
 
 /* GRID MOVIL*/
 
-.mi-card {
+.mi-card{
     transition: all .25s ease-in;
 }
 
@@ -961,4 +961,7 @@ body {
     .index-content .col-lg-4 {
         margin-top: 20px;
     }
+}
+.card{
+    transition: all .25s ease-in;
 }
