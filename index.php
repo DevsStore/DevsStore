@@ -22,7 +22,7 @@
                 <div class="container">
                     <div class="carousel-caption text-right">
                         <h1 >Somos una agencia creativa.</h1>
-                        <p class="text-center">Con una pasión por el diseño. Le ayudaremos a lograr sus objetivos y hacer crecer su negocio.</p>
+                        <p class="text-center text-white">Con una pasión por el diseño. Le ayudaremos a lograr sus objetivos y hacer crecer su negocio.</p>
                     </div>
                 </div>
                 <div class="pattern"></div>
@@ -32,7 +32,7 @@
                 <div class="container">
                     <div class="carousel-caption text-right">
                         <h1>Creamos tu App Móvil</h1>
-                        <p class="text-center">Aplicaciones Nativas y Progressive Web Apps. Impulsa tu Negocio con las Últimas tecnologías. Innova, diferénciate de la competencia y haz crecer tu negocio.</p>
+                        <p class="text-center text-white">Aplicaciones Nativas y Progressive Web Apps. Impulsa tu Negocio con las Últimas tecnologías. Innova, diferénciate de la competencia y haz crecer tu negocio.</p>
                     </div>
                 </div>
                 <div class="pattern"></div>
@@ -42,7 +42,7 @@
                 <div class="container">
                     <div class="carousel-caption text-right">
                         <h1>Contenido Digital Personalizado</h1>
-                        <p class="text-center">Creamos plataformas personalizadas para clientes que necesitan una solución específicamente diseñada para un sitio web o Aplicación Móvil.</p>
+                        <p class="text-center text-white">Creamos plataformas personalizadas para clientes que necesitan una solución específicamente diseñada para un sitio web o Aplicación Móvil.</p>
                     </div>
                 </div>
                 <div class="pattern"></div>
@@ -52,7 +52,7 @@
                 <div class="container">
                     <div class="carousel-caption text-right">
                         <h1>Optimización de motores de búsqueda.</h1>
-                        <p class="text-center">Es el proceso de afectar la visibilidad de un sitio web o una página web en los resultados no remunerados de un motor de búsqueda, a menudo conocidos como resultados "naturales", "orgánicos" o "obtenidos".</p>
+                        <p class="text-center text-white">Es el proceso de afectar la visibilidad de un sitio web o una página web en los resultados no remunerados de un motor de búsqueda, a menudo conocidos como resultados "naturales", "orgánicos" o "obtenidos".</p>
                     </div>
                 </div>
                 <div class="pattern"></div>
@@ -220,7 +220,7 @@
 
         <div class="borde">
             <h2 class="blanco">¿Estás listo para comenzar? podemos ayudarte.</h2>
-            <p>Contactános en el siguiente enlace, cuéntanos de tu proyecto y nos pondremos en contacto a la brevedad</p>
+            <p class="text-white">Contactános en el siguiente enlace, cuéntanos de tu proyecto y nos pondremos en contacto a la brevedad</p>
 
             <a data-toggle="modal" data-target=".modal-contacto" class="btn btn-default btn-lg">Solicitar Cotización</a>
         </div>
