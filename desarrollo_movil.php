@@ -48,6 +48,10 @@
 </div>
 <div class="container" style="margin-bottom:2rem;">
         <div class="row">
+        <div class="col-lg-12">
+            <h2 class="featurette-heading" style="margin:0">Desarrollo de aplicaciones<span
+                            class="text-muted"> Móviles.</span></h2>
+        </div>
         <div class="col-lg-3">
                 <div class="card mi-card">
                     <img class="card-img-top" src="img/Angular.png" alt="Card image cap">
