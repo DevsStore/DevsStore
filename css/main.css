@@ -226,7 +226,9 @@ section.contacto {
 section.contacto .borde {
     border: 1px solid #697279;
 }
-
+.borde p{
+    color:#fff !important;
+}
 section.contacto p {
     margin-bottom: 25px;
 }
