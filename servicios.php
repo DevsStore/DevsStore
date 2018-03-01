@@ -31,30 +31,30 @@
                     <div class="col-lg-4">
                         
                             <div class="card">
-                                <img src="http://cevirdikce.com/proje/hasem-2/images/finance-1.jpg">
-                                <h4>Investment Strategy</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                <a href="blog-ici.html" class="blue-button">Read More</a>
+                                <img src="img/145web.jpg">
+                                <h4>Desarrollo Web</h4>
+                                <p>Los sitios web que producimos están limpios y frescos, cada uno diseñado de forma única. Además, nos esforzamos por garantizar que todos nuestros sitios cumplan con lo exigidos.. </p>
+                                <a href="desarrollo_web.php" class="blue-button">Ver Más</a>
                             </div>
                         
                     </div>
                     <div class="col-lg-4">
                         
                             <div class="card">
-                                <img src="http://cevirdikce.com/proje/hasem-2/images/finance-1.jpg">
-                                <h4>Investment Strategy</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                <a href="blog-ici.html" class="blue-button">Read More</a>
+                                <img src="img/mobile.jpg">
+                                <h4>Desarrollo Apps</h4>
+                                <p>El mercado de los usuarios de teléfonos inteligentes cada vez es más y más grande. Cada minuto que pasa, tu mercado objetivo está formando parte de esta tendencia...</p>
+                                <a href="desarrollo_movil.php" class="blue-button">Ver Más</a>
                             </div>
                         
                     </div>
                     <div class="col-lg-4">
                         
                             <div class="card">
-                                <img src="http://cevirdikce.com/proje/hasem-2/images/finance-1.jpg">
-                                <h4>Investment Strategy</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                <a href="blog-ici.html" class="blue-button">Read More</a>
+                                <img src="img/marketing1.jpg">
+                                <h4>Marketing Digital</h4>
+                                <p>En la actualidad el marketing es una herramienta que todo empresario debe conocer. Sin duda, todas las compañías de una u otra forma utilizan técnicas de marketing, incluso, sin saberlo... </p>
+                                <a href="marketing.php" class="blue-button">Ver Más</a>
                             </div>
                         
                     </div>

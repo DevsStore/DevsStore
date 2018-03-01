@@ -18,7 +18,7 @@
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="first-slide" src="img/OBDITW0.jpg" alt="First slide">
+                <img class="first-slide" src="img/145web.jpg" alt="First slide">
                 <div class="container">
                     <div class="carousel-caption text-right">
                         <h1 >Somos una agencia creativa.</h1>

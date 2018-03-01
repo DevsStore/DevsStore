@@ -877,7 +877,7 @@ body {
 
 /* GRID MOVIL*/
 
-.mi-card{
+.mi-card {
     transition: all .25s ease-in;
 }
 
@@ -942,7 +942,7 @@ body {
     /* For Safari 3.1 to 6.0 */
     transition: background-color 1s, color 1s;
     min-height: 20px;
-    background-color: #002E5B;
+    background-color: tomato;
     color: #ffffff;
     border-radius: 4px;
     text-align: center;
@@ -962,6 +962,7 @@ body {
         margin-top: 20px;
     }
 }
-.card{
+
+.card {
     transition: all .25s ease-in;
 }
