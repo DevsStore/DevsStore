@@ -23,25 +23,44 @@
             <h1 class="text-center"  style="font-family: sans-serif;">Nuestros Servicios</h1>
         </div>
     </section>
-    <div class="container" style="padding:3rem 0">
-        <div class="row">
-            <div class="col-md-4">
-                <div class="card">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione dicta dolorem iure rem, dolorum accusantium, voluptatum vero velit fugiat delectus ipsa fuga magnam possimus nihil ab voluptate quisquam? Molestias, voluptatibus.
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione dicta dolorem iure rem, dolorum accusantium, voluptatum vero velit fugiat delectus ipsa fuga magnam possimus nihil ab voluptate quisquam? Molestias, voluptatibus.
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione dicta dolorem iure rem, dolorum accusantium, voluptatum vero velit fugiat delectus ipsa fuga magnam possimus nihil ab voluptate quisquam? Molestias, voluptatibus.
-                </div>
-            </div>
-        </div>
-    </div>
+
+    
+        <div class="index-content">
+            <div class="container">
+                <a href="blog-ici.html">
+                    <div class="col-lg-4">
+                        <div class="card">
+                            <img src="http://cevirdikce.com/proje/hasem-2/images/finance-1.jpg">
+                            <h4>Investment Strategy</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <a href="blog-ici.html" class="blue-button">Read More</a>
+                        </div>
+                    </div>
+                </a>
+                <a href="blog-ici.html">
+                    <div class="col-lg-4">
+                        <div class="card">
+                            <img src="http://cevirdikce.com/proje/hasem-2/images/finance-2.jpg">
+                            <h4>Investment Strategy</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <a href="blog-ici.html" class="blue-button">Read More</a>
+                        </div>
+                    </div>
+                </a>
+                <a href="blog-ici.html">
+                    <div class="col-lg-4">
+                        <div class="card">
+                            <img src="http://cevirdikce.com/proje/hasem-2/images/finance-3.jpg">
+                            <h4>Investment Strategy</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <a href="blog-ici.html" class="blue-button">Read More</a>
+                        </div>
+                    </div>
+                </a>
+
+         </div>
+     </div>
+      
 
     <?php include_once './components/footer.php'?>
 
