@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="css/main.css">
     <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
     <link rel="https://fonts.googleapis.com/icon?family=Material+Icons" href="stylesheet">
+    <link rel="icon" href="./img/logo1.png">
     <title>Desarrollo Web</title>
 </head>
 
