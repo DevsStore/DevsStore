@@ -77,11 +77,7 @@
                                 </div>
                                 <div class="back">
                                     <div class="back-title">Diseño Web</div>
-                                    <p class="text-justify" style="margin-top:1rem;">Los sitios web que producimos están limpios y frescos, cada uno diseñado de forma única. Además, nos
-                                        esforzamos por garantizar que todos nuestros sitios cumplan con los estándares de accesibilidad
-                                        exigidos por World Wide Web Consortium.
-                                        Nuestros sitios web se prueban en los navegadores más utilizados con diferentes resoluciones de
-                                        pantalla.</p>
+                                    <p class="text-justify" style="margin-top:1rem;">Los sitios web que producimos están limpios y frescos, cada uno diseñado de forma única. Además, nos esforzamos por garantizar que todos nuestros sitios cumplan con los estándares de accesibilidad exigidos por World Wide Web Consortium. Nuestros sitios web se prueban en los navegadores más utilizados con diferentes resoluciones de pantalla.</p>
                                     <a class="btn btn-secondary" href="desarrollo_web.php" role="button">Ver Más &raquo;</a>
                                 </div>
                         </div>
@@ -96,9 +92,7 @@
                                 </div>
                                 <div class="back">
                                     <div class="back-title">Diseño Móvil</div>
-                                    <p class="text-justify" style="margin-top:1rem;">El mercado de los usuarios de teléfonos inteligentes cada vez es más y más grande. Cada minuto que
-                        pasa, tu mercado objetivo está formando parte de esta tendencia. Por eso es importante que tengas
-                        una estrategia móvil lo antes posible.</p>
+                                    <p class="text-justify" style="margin-top:1rem;">El mercado de los usuarios de teléfonos inteligentes cada vez es más y más grande. Cada minuto que pasa, tu mercado objetivo está formando parte de esta tendencia. Por eso es importante que tengas una estrategia móvil lo antes posible.</p>
                                     <a class="btn btn-secondary" style="margin:1rem 0;" href="desarrollo_movil.php" role="button">Ver Más &raquo;</a>
                                 </div>
                         </div>
@@ -113,10 +107,7 @@
                                 </div>
                                 <div class="back">
                                     <div class="back-title">Marketing Digital</div>
-                                    <p class="text-justify" style="margin-top:1rem;">En la actualidad el marketing es una herramienta que todo empresario debe conocer. Sin duda, todas
-                        las compañías de una u otra forma utilizan técnicas de marketing, incluso, sin saberlo. Marketing no
-                        es otra cosa que la realización
-                        de intercambios entre un mínimo de 2 partes de forma que se produzca un beneficio mutuo.</p>
+                                    <p class="text-justify" style="margin-top:1rem;">En la actualidad el marketing es una herramienta que todo empresario debe conocer. Sin duda, todas las compañías de una u otra forma utilizan técnicas de marketing, incluso, sin saberlo. Marketing no es otra cosa que la realización de intercambios entre un mínimo de 2 partes de forma que se produzca un beneficio mutuo.</p>
                                     <a class="btn btn-secondary" style="margin:1rem 0;"  href="marketing.php" role="button">Ver Más &raquo;</a></p>
                                 </div>
                         </div>
