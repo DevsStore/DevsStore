@@ -53,7 +53,6 @@
                     <div class="card-body">
                         <h5 class="card-title">Angular</h5>
                         <p class="card-text text-center">Utilizamos Angular para crear y reutilizar su código y capacidades para crear aplicaciones para cualquier destino de despliegue. Para web, web móvil, dispositivo móvil nativo y escritorio nativo.</p>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                     </div>
                 </div>
             </div>
@@ -63,7 +62,6 @@
                     <div class="card-body">
                         <h5 class="card-title">Ionic</h5>
                         <p class="card-text text-center">Creamos aplicaciones asombrosas en una base de código. Desde los servicios de código abierto hasta los profesionales, Ionic nos ayuda a crear, implementar, probar y monitorear aplicaciones más fácil que nunca.</p>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                     </div>
                 </div>
             </div>
@@ -73,7 +71,6 @@
                     <div class="card-body">
                         <h5 class="card-title">NativeScript</h5>
                         <p class="card-text text-center">Por qué necesitas NativeScript? Interfaz de usuario hermosa, accesible, nativa de la plataforma, sin visitas a la web. Defina una vez y permita que NativeScript se adapte para ejecutarse en todas partes, o adapte la interfaz de usuario a dispositivos y pantallas específicos.</p>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                     </div>
                 </div>
             </div>
@@ -83,8 +80,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Desarrollo Nativo</h5>
                         <p class="card-text text-center">Android Studio proporciona las herramientas más rápidas para crear apps en todas las clases de dispositivos Android. La edición de códigos de primer nivel,un sistema de compilación flexible e implementación te permiten concentrarte en la creación de aplicaciones únicas y de alta calidad.</p>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                    </div>
+                        </div>
                 </div>
             </div>
         </div>
