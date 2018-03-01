@@ -1,6 +1,6 @@
 <header>
     <nav class="navbar navbar-expand-md fixed-top devsstore-nav">
-        <a id="logo" class="navbar-brand devsstore-title" href="index.php">  <img src="./img/logo1.png" width="60" height="30" class="d-inline-block align-top" alt=""></a>
+        <a class="navbar-brand devsstore-title" href="index.php">  <img src="./img/logo1.png" style="height:30px"class="d-inline-block align-top" alt=""></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
                 aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fas fa-bars" style="color:#fff"></i>
